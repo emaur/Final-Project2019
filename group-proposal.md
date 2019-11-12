@@ -11,18 +11,18 @@ This document is meant to guide you in structuring your group experience through
 
 ## The team
 Emma: Project Manager
-Juliana: Researcher
-Kevin & Rebecca: Visual Design
-Corey: Programmer
 
+Julianna: Researcher
+
+Kevin & Rebecca: Visual Design
+
+Corey: Programmer
 
 
 ## The pitch
 _What's the basic pitch for the project? e.g. What kind of thing are you making? Does it have a genre within that overall category? Who is the audience? What are your starting premises?_
 
-
-
-
+We are aiming to create a website filled with images of things found on the streets of South O. This site will be targetted at students at the University of Pittsburgh — who are sure to get a kick out of seeing what treasures we find. 
 
 
 
