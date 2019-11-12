@@ -10,9 +10,10 @@ This document is meant to guide you in structuring your group experience through
 
 
 ## The team
-_Who is working on this project?_
-
-
+Emma: Project Manager
+Juliana: Researcher
+Kevin & Rebecca: Visual Design
+Corey: Programmer
 
 
 
