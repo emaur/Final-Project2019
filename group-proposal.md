@@ -30,7 +30,7 @@ _What's the basic pitch for the project? e.g. What kind of thing are you making?
 ### ... overall
 _What overall mode of collaboration are you planning to use: divide the work by project sections? by media types and expertise? by compromise and consensus all the way through? (See_ Writer/Designer _pages 113-114.)_
 
-- We are generally dividing the work by roles, but are going to be collaborating on the project throughout the entire process. - We will all take pictures of found items, write captions, and collectively agree on the design of the project.
+- We are generally dividing the work by roles, but are going to be collaborating on the project throughout the entire process. We will all take pictures of found items, write captions, and collectively agree on the design of the project.
 
 
 ### ... in particular
