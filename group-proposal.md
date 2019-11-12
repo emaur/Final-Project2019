@@ -50,7 +50,7 @@ IMPORTANT: never include personal info like phone numbers on GitHub! But please 
 _You may not be able to pin down dates until you get into the mix and see what's easy and what's harder than expected. But because our time for this unit is limited – we have only until the Tuesday after Thanksgiving, and I'm guessing you'd prefer to finish before going on break – it's important to set goals you can update as you know more. So, for now, what are you trying to finish..._
 
 **by Thursday, 2019-11-14**
-
+- start taking photos of things found & come to class hopefully with 1 photo each
 
 **by Tuesday, 2019-11-19**
 
