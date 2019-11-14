@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Gallery{% endblock %}
+{% block body %}
+	<h2 class="page_header">Gallery</h2>
+	<div class="container"></div>  
+	<script>
+		var images = {
+			value: {{ images|tojson }}
+		};
+	</script>
+{% endblock %}
+
+{% block javascript %}
+	<script src="/static/gallery.js"></script>
+{% endblock %}
