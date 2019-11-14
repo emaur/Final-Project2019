@@ -26,12 +26,12 @@ def initdb_command():
 	db.create_all()
 
 	paths = {
-		"test1.jpg": ["Name here", "Image description here"],
-		"test2.jpg": ["Name here", "Image description here"], 
-		"test3.jpg": ["Name here", "Image description here"], 
-		"test4.jpg": ["Name here", "Image description here"],
-		"test5.jpg": ["Name here", "Image description here"], 
-		"test6.jpg": ["Name here", "Image description here"]
+		"test1.jpg": ["Name here", "Image description here 1"],
+		"test2.jpg": ["Name here", "Image description here 2"], 
+		"test3.jpg": ["Name here", "Image description here 3"], 
+		"test4.jpg": ["Name here", "Image description here 4"],
+		"test5.jpg": ["Name here", "Image description here 5"], 
+		"test6.jpg": ["Name here", "Image description here 6"]
 	}
 
 	for path in paths:
@@ -78,4 +78,4 @@ def gallery():
 def img_desc(id):
 	image = Images.query.filter_by(img_id=id).first()
 
-	return image.description + str(id)
+	return render_template('img_desc.html', image=image)
