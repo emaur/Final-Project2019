@@ -26,12 +26,16 @@ def initdb_command():
 	db.create_all()
 
 	paths = {
-		"test1.jpg": ["Name here", "Image description here 1"],
-		"test2.jpg": ["Name here", "Image description here 2"], 
-		"test3.jpg": ["Name here", "Image description here 3"], 
-		"test4.jpg": ["Name here", "Image description here 4"],
-		"test5.jpg": ["Name here", "Image description here 5"], 
-		"test6.jpg": ["Name here", "Image description here 6"]
+		"filetofish.jpg": ["Yes, a filet-o-fish", "Image description here"],
+		"insomnia.jpg": ["Sugar We Are Going Down Swinging", "Image description here"], 
+		"jesusisking.jpg": ["Jesus is King", "Image description here"], 
+		"lite.jpg": ["Mr. Miller", "Image description here"],
+		"miley.jpg": ["Literally No One:", "Image description here"], 
+		"pennstate.jpg": ["How Tough Are You?", "Image description here"],
+		"pizza.jpg": ["A Big Waste of Money", "Image description here"],
+		"pizza2.jpg": ["Where's the Ranch?", "Image description here"], 
+		"pumpkin.jpg": ["Smashing Pumkpins", "Image description here"], 
+		"rat.jpg": ["Oh Rats", "Image description here"],
 	}
 
 	for path in paths:
